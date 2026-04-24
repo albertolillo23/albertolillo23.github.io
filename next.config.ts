@@ -7,7 +7,7 @@ const nextConfig: NextConfig = {
   },
   // Se la tua repository su github NON si chiama tuo-username.github.io ma per esempio "PersonalSite",
   // DECOMMENTA la riga qui sotto e inserisci il nome della tua repository:
-  // basePath: "/PersonalSite",
+  basePath: "/PersonalSite",
 };
 
 export default nextConfig;
