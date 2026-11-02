@@ -165,7 +165,7 @@ export function HeroSection() {
               Get in touch
             </Button>
             <Button
-              href="/curriculum.pdf"
+              href="/CV_Alberto_Lillo.pdf"
               variant="ghost"
               size="lg"
               external

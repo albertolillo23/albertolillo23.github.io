@@ -42,14 +42,14 @@ export const skillGroups: SkillGroup[] = [
 
 export const profileInfo = {
   name: "Alberto Lillo",
-  role: "PhD Candidate in Computer Science",
+  role: "PhD in Computer Science",
   lab: "AIR Lab",
   university: "Università degli Studi di Torino",
   email: "alberto.lillo@unito.it",
   location: "Turin, Italy",
   github: "https://github.com/albertolillo23",
   linkedin: "https://linkedin.com/in/alberto-lillo",
-  bio: "I'm a PhD candidate at the AIR Lab (UniTo) researching in the field of Human-Robot Interaction, with a focus on empathic and socially intelligent robots. My work spans from cognitive architectures for affective computing to the study of interactions in HRI.",
+  bio: "I hold a PhD in Computer Science from the Università degli Studi di Torino, where I carried out my doctoral research at the AIR Lab in the field of Human-Robot Interaction, with a focus on empathic and socially intelligent robots. My work spans from cognitive architectures for affective computing to the study of interactions in HRI.",
   shortBio:
     "Researcher in Human-Robot Interaction & Empathic AI @ AIR Lab, UniTo.",
   researchInterests: [

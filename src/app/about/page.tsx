@@ -11,7 +11,7 @@ import { profileInfo } from "@/data/skills";
 export const metadata: Metadata = {
   title: "About",
   description:
-    "Learn about Alberto Lillo — PhD Candidate in Human-Robot Interaction at AIR Lab, UniTo. Education, experience, and technical skills.",
+    "Learn about Alberto Lillo, PhD — researcher in Human-Robot Interaction (AIR Lab, UniTo). Education, experience, and technical skills.",
 };
 
 export default function AboutPage() {

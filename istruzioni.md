@@ -2,7 +2,7 @@
 
 ## 1. Visione Generale
 * **Proprietario:** Alberto Lillo
-* **Ruolo:** PhD Candidate
+* **Ruolo:** PhD in Computer Science (dottorato conseguito a ottobre 2026)
 * **Obiettivo del sito:** Mostrare i miei progetti di ricerca e i miei paper scientifici
 
 ## 2. Tech Stack Predefinito

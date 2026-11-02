@@ -16,10 +16,10 @@ export const experience: TimelineItem[] = [
   {
     id: "phd-unito",
     type: "education",
-    title: "PhD Candidate in Computer Science",
+    title: "PhD in Computer Science",
     institution: "Università degli Studi di Torino (UniTo)",
     location: "Turin, Italy",
-    period: "Nov 2022 – present",
+    period: "Nov 2022 – Oct 2026",
     description:
       "Doctoral research at the AIR Lab (Advanced Interactions & Robotics Lab) focused on Human-Robot Interaction, with particular emphasis on empathic and socially intelligent robots.",
     highlights: [
